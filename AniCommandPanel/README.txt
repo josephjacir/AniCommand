@@ -1,1 +1,1 @@
-These folder contains assets and resources for the GUI for all other tools. Generally they result in SWF Panels that should be installed in flashconfig/WindowSWF
+This folder contains assets and resources for the GUI for all other tools. Generally they result in SWF Panels that should be installed in flashconfig/WindowSWF

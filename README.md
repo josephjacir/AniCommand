@@ -8,3 +8,6 @@ Help docs are included in this repo, but hosted here:
 http://josephjacir.com/anicommand/help
 
 These scripts should be installed in the Flash Commands folder, and the SWF should be installed in the WindowSWF folder. More detailed installation instructions are at the above link.
+
+TODO:
+	Add SequenceFrameNames to UI (or not?) and to the help
